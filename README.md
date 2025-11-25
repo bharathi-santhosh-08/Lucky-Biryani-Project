@@ -15,3 +15,5 @@
 
         HTML5 for structure
         CSS3 for styling and responsiveness
+Output
+        ![Image](https://github.com/user-attachments/assets/adabd328-2499-4317-9190-1f01519e5b3a)
