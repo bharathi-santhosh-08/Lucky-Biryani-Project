@@ -17,4 +17,5 @@
         CSS3 for styling and responsiveness
 Output
 
-        ![Image](https://github.com/user-attachments/assets/adabd328-2499-4317-9190-1f01519e5b3a)
+        
+![Image](https://github.com/user-attachments/assets/be5cb3e8-9aa7-4424-a6a6-d6e520bae1ca)
